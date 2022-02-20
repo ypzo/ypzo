@@ -3,20 +3,6 @@
 
 ----
 
-<h3 align="center">À propos de moi 👤</h3>
-
-- ⚡ Présentation: Bonjour je suis ypzo j'apprends le python depuis 1 an et je souhaite apprendre le JavaScript.
-- 🔭 Je suis entrain de travailler sur: Mon site web
-- 🌱 Je suis entrain d'apprendre: Python, Html, Css
-- 👯 J'aimerais collaborer sur: Python
-- 🎯 Mes objectifs: Maitriser totalement Python et apprendre le JavaScript
-- 💻 Mes compétences: Assez bon en Python et j'ai les bases en Html / Css
-
-
-----
-
-<h3 align="center">Pour me contacter 📞</h3>
-
 <p align="center">
   
   <a href="https://twitter.com/ypzo_">
