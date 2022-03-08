@@ -27,6 +27,7 @@
 <h3>Btc: bc1q2dlcg6xqqgqmjz5qmjr406kr4327kuzafwe2hd</h3>
 <h3>Eth: 0x503379368Da339Fd2982890908673464d0366E26</h3>
 <h3>Sol: 2ujePMMUyAuxDgU3zNTm2MVgmyyEgwaW8i8oCRU5m8EB</h3>
-----
+
+----------------------
 
 Modifié le: 15/02/2022
