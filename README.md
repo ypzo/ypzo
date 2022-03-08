@@ -24,7 +24,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypzo&langs_count=10&theme=dark&layout=compact" alt="" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ypzo&show_icons=true&theme=dark" alt="" /></p>
 <p align="center"><img src="https://media1.giphy.com/media/3o7qDPOeDdG9QkEdt6/giphy.gif"/></p>
-<h3>Btc: bc1q2dlcg6xqqgqmjz5qmjr406kr4327kuzafwe2hd</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/2000px-BTC_Logo.svg.png" height="30" width="30"><h3>Btc: bc1q2dlcg6xqqgqmjz5qmjr406kr4327kuzafwe2hd</h3>
 <h3>Eth: 0x503379368Da339Fd2982890908673464d0366E26</h3>
 <h3>Sol: 2ujePMMUyAuxDgU3zNTm2MVgmyyEgwaW8i8oCRU5m8EB</h3>
 
